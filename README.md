@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Bài Tập Lớn: CF11 - Broken Authentication (Xác Thực Bị Lỗi)
 **Môn học:** FIT4012 Cyber Fortress  
-**Sinh viên thực hiện:** Phạm Anh Tú  
+**Sinh viên thực hiện:** Phạm Anh Tú, Nguyễn Văn Huy, Phạm Phương Anh, Dương Thị Huyền Trang
 **Lớp:** CNTT 18 - 02  
 
 ---
