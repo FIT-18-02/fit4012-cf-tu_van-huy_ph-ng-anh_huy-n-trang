@@ -9,6 +9,10 @@ Nhóm cam kết:
 6. Không phát tán mã độc, ransomware, webshell hoặc script gây hại.
 7. Chỉ sử dụng kiến thức trong phạm vi học tập, nghiên cứu và phòng thủ.
 
-Tên nhóm: Đơn thương độc mã (Hoặc điền tên nhóm của bạn)
-Thành viên: Phạm Anh Tú
+Tên nhóm:1
+Thành viên: 
+Phạm Anh Tú
+Nguyễn Văn Huy
+Phạm Phương Anh
+Dương Thị Huyền Trang
 Ngày nộp: 27/05/2026
