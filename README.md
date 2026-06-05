@@ -35,8 +35,6 @@ CF11-Broken-Authentication/
 Mô tả đề tài, công cụ, cách chạy demo, tài khoản giả lập nếu có.
 >>>>>>> 467e36a1007971eda4e50dc9c9cc1b59b609c416
 **## 4. Chấm Điểm của nhóm 1 cho **
-<img width="1012" height="1063" alt="image" src="https://github.com/user-attachments/assets/da45b965-a660-4a0a-bbdd-339db4b3f969" />
-<img width="999" height="1375" alt="image" src="https://github.com/user-attachments/assets/fd31f12e-e6de-41d6-953a-39d7224d03f3" />
-<img width="1000" height="616" alt="image" src="https://github.com/user-attachments/assets/cd7e6f08-4917-4252-883c-fff0a6abbf39" />
+link exel chấm: https://onedrive.live.com/:x:/g/personal/E2EDEF1D54857181/IQA6-xFkixM0Qb4I6HUqFakmAbPb_9xTMVsnebNdcxo_2tg?resid=E2EDEF1D54857181!s6411fb3a138b4134be08e8752a15a926&ithint=file%2Cxlsx&e=AzKUwz&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9lMmVkZWYxZDU0ODU3MTgxL0lRQTYteEZraXhNMFFiNEk2SFVxRmFrbUFiUGJfOXhUTVZzbmViTmRjeG9fMnRnP2U9QXpLVXd6
 
 
