@@ -34,3 +34,9 @@ CF11-Broken-Authentication/
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/EKjMbdn6)
 Mô tả đề tài, công cụ, cách chạy demo, tài khoản giả lập nếu có.
 >>>>>>> 467e36a1007971eda4e50dc9c9cc1b59b609c416
+**## 4. Chấm Điểm của nhóm 1 cho **
+<img width="1012" height="1063" alt="image" src="https://github.com/user-attachments/assets/da45b965-a660-4a0a-bbdd-339db4b3f969" />
+<img width="999" height="1375" alt="image" src="https://github.com/user-attachments/assets/fd31f12e-e6de-41d6-953a-39d7224d03f3" />
+<img width="1000" height="616" alt="image" src="https://github.com/user-attachments/assets/cd7e6f08-4917-4252-883c-fff0a6abbf39" />
+
+
